@@ -1,2 +1,1 @@
-# linguagem-c
-Estudos linguagem C
+# Curso de linguagem C
